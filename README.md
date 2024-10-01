@@ -2,15 +2,13 @@
 
 In this assignment, an interactive dashboard to expolre the ![Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/).
 
+The demographic information panel updates whenever a new Subject ID is selected.
+
 ![alt My Dashboard](images/MyDashboard.jpg)
 
 The application was deployed to GitHub pages, as follows:
 
 [HTML VIEW](https://purcellcjp.github.io/)
-
-The demographic information panel updates whenever a new Subject ID is selected.
-
-![alt text](https://github.com/candidamg/belly-button-challenge/blob/main/html_dashboard.PNG)
 
 ### REFERENCES:
 * bubble chart: https://plotly.com/javascript/bubble-charts/
